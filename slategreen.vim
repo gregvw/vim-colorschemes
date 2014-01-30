@@ -7,8 +7,6 @@
 "     License: Distributed under the Vim charityware license.
 "     Summary: A dark green background color scheme for VIM
 "
-" GetLatestVimScripts: 2828 1 :AutoInstall: cobalt.vim
-"
 " Description:
 " An adaptation of cobalt.vim to have a dark-green blackboard look 
 "
