@@ -10,11 +10,9 @@
 " GetLatestVimScripts: 2828 1 :AutoInstall: cobalt.vim
 "
 " Description:
-" A colour scheme for Vim that attempts to replicate TextMates cobalt colour
-" scheme. This scheme only supports GVim, it should work fine in Vim but no
-" promises are made about this or how it looks.
+" An adaptation of cobalt.vim to have a dark-green blackboard look 
 "
-" History:
+" 
 "
 
 set background=dark
